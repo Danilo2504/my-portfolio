@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>First commit</h1>
+      <h1 className='text-3xl text-white'>First commit</h1>
     </>
   );
 }
